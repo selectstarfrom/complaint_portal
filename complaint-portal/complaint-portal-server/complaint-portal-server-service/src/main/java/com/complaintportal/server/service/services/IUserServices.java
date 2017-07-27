@@ -1,5 +1,5 @@
 package com.complaintportal.server.service.services;
 
-public class IUserServices {
+public interface IUserServices {
 
 }
